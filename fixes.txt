@@ -1,0 +1,17 @@
+Problem: Slow PC
+Solution: Close unused programs, disable startup apps, scan for malware, and clean temporary files.
+
+Problem: Wi-Fi disconnects frequently
+Solution: Restart your router, update network drivers, and disable power-saving mode for the Wi-Fi adapter.
+
+Problem: High CPU usage
+Solution: Open Task Manager to identify heavy apps, update software, and check for background updates or malware.
+
+Problem: Blue screen error
+Solution: Note the error code, check hardware connections, update drivers, and scan for memory issues.
+
+Problem: Laptop battery drains fast
+Solution: Reduce screen brightness, disable background apps, and check power plan settings.
+
+Problem: Application not responding
+Solution: Use Task Manager to force-close the app, then reopen it. Update or reinstall if problem persists.
